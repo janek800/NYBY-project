@@ -1,0 +1,8 @@
+.weather-container {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.weather, .temperature {
+  padding: 10px;
+}

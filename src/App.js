@@ -3,7 +3,7 @@ import moment from 'moment';
 import WeatherInfo from './components/WeatherInfo'
 import useGetGeolocation from "./hooks/useGetGeolocation";
 import useFetch from "./hooks/useFetch";
-import './App.css';
+import './styles/App.css';
 
 function App() {
 
